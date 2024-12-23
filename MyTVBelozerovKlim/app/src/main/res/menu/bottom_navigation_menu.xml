@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_movies"
+        android:title="Боевики" />
+    <item
+        android:id="@+id/horror_movies"
+        android:title="Хорроры" />
+    <item
+        android:id="@+id/comedy_movies"
+        android:title="Комедии" />
+
+</menu>
